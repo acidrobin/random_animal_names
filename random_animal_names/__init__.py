@@ -1,1 +1,1 @@
-from main import generate_name
+from .main import generate_name
