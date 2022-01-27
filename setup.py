@@ -9,7 +9,7 @@ setup(
     packages=['random_animal_names'],
     install_requires=['numpy'],
     package_data = {
-                    "random_animal_names": ["*.txt"]}
+                    "random_animal_names": ["*.txt"]},
     version='0.1',
     license='GNU GPL',
     description='Generates random animal names',
