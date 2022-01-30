@@ -1,1 +1,1 @@
-Generates a random animal name of the format <ADJECTIVE> <NATIONALITY> <ANIMAL>, e.g. "Happy British Ferret"
+Generates a random animal name of the format <ADJECTIVE> <NATIONALITY> <ANIMAL>, e.g. "Happy British Wombat"
